@@ -1,0 +1,4 @@
+2 EXERCÍCIO 2
+Faça uma função que receba o nome e sobrenome de uma pessoa e retorne a primeira letra de seu nome e seu sobrenome concatenando com a string @algoritmos.com.br. No algoritmo principal deverá ser apresentada a mensagem ao usuário contendo seu nome completo e seu email. 
+Imprima na tela um teste do seu programa utilizando o seu nome e sobrenome concatenado com os dois últimos dígitos do seu RU. 
+Sra Luciane Kanashiro, seu email é lkanashiro16@algoritmos.com.br
